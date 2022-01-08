@@ -1,0 +1,19 @@
+BaumerCMv1
+Camera Model:Baumer_GEV_TL__VCXG-65C.R__700005000995
+Rotation:0
+Saturation:1
+GainAll=1.99219
+GainBlue=3.47559
+GainGreenBlue=1.20654
+GainGreenRed=1.20654
+GainRed=1
+Matrix:3x3
+1.19482
+0.193848
+-0.38916
+-0.728516
+2.05518
+-0.326172
+-0.234375
+-1.30762
+2.54248
